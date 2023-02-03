@@ -755,7 +755,7 @@
                     | Resumen 
                   li 
                     span.fas.fa-angle-right
-                    | Rueda de atributos.
+                    | Rueda de atributos
 
 
     .row.justify-content-center.mb-5(data-aos="flip-left")
