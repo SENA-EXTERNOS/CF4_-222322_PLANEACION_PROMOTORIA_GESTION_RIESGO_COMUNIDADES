@@ -12,7 +12,7 @@
         .col-md-3.mb-4.mb-md-0
           img.img-a(src='@/assets/curso/temas/tema_1/img_3.png', alt='Texto que describa la imagen')
         .col-lg-7
-          p.text-small El conocimiento de las situaciones que afectan a las comunidades y su entorno, es parte del proceso de avanzar en la toma de conciencia, sobre los problemas y elementos que son obstáculo para el desarrollo individual y grupal de las mismas. Se trata de crear un aprendizaje colectivo, basado en el intercambio de experiencias y de la memoria histórica de la comunidad. Este proceso tiene un nivel educativo que pretende el enriquecimiento de la experiencia y el conocimiento de las comunidades. 
+          p El conocimiento de las situaciones que afectan a las comunidades y su entorno, es parte del proceso de avanzar en la toma de conciencia, sobre los problemas y elementos que son obstáculo para el desarrollo individual y grupal de las mismas. Se trata de crear un aprendizaje colectivo, basado en el intercambio de experiencias y de la memoria histórica de la comunidad. Este proceso tiene un nivel educativo que pretende el enriquecimiento de la experiencia y el conocimiento de las comunidades. 
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -96,7 +96,7 @@
             p Involucra a los ciudadanos en acciones ejecutadas colectivamente, para la búsqueda de soluciones a las necesidades de su vida cotidiana.
 
     .fondo-2.p-5
-      p A continuación se analiza el segundo grupo, en el cual las variables de actuación son las que lo determinan.
+      p A continuación, se analiza el segundo grupo, el cual está definido por las variables de actuación:
 
       .bg_2.mb-5
         TabsC.color-acento-contenido
@@ -149,7 +149,7 @@
     .row.mb-5.align-items-center
       .col-lg-7.mb-4.mb-md-0
         .cajon.color-primario.p-4.mb-4
-          p.text-small.mb-0 El Estado colombiano contribuye a la organización, promoción y capacitación de todas aquellas asociaciones profesionales, cívicas, sindicales, comunitarias, juveniles, benéficas, o que sean de utilidad común no gubernamental, para que constituyan mecanismos democráticos de representación en todas las instancias de participación, concertación, control y vigilancia de la gestión pública que se establezca. 
+          p.mb-0 El Estado colombiano contribuye a la organización, promoción y capacitación de todas aquellas asociaciones profesionales, cívicas, sindicales, comunitarias, juveniles, benéficas, o que sean de utilidad común no gubernamental, para que constituyan mecanismos democráticos de representación en todas las instancias de participación, concertación, control y vigilancia de la gestión pública que se establezca. 
       .col-lg-4  
         img.img-a(src='@/assets/curso/temas/tema_1/img_19.png', alt='Texto que describa la imagen')
 
@@ -161,7 +161,7 @@
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_20.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left").text-small
+          .col-md-5(data-aos="fade-left")
             h4 Plebiscito
             p Es el pronunciamiento del pueblo, una vez es convocado por el presidente de la República, mediante el cual la comunidad apoyará o rechazará una determinada decisión del ejecutivo. 
 
@@ -172,7 +172,7 @@
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_21.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left").text-small
+          .col-md-5(data-aos="fade-left")
             h4 Iniciativa popular legislativa
             p Partiendo del Artículo 2 de la Ley 134 de 1994, la iniciativa popular, es el derecho político de un grupo de ciudadanos de presentar un proyecto de acto legislativo y de ley ante el Congreso de la República, de ordenanza ante las Asambleas departamentales, de acuerdo ante los Concejos municipales o Distritales,  de resolución ante las Juntas administradoras locales, y demás resoluciones de las corporaciones o entidades territoriales, de acuerdo con las leyes que las reglamentan según el caso, para que sean debatidos y posteriormente aprobados, modificados o negados por la corporación pública correspondiente.
 
@@ -183,7 +183,7 @@
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_22.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left").text-small
+          .col-md-5(data-aos="fade-left")
             h4 Referendo
             p Es la convocatoria que se le hace a la comunidad, para que sea aprobado o rechazado un proyecto de norma jurídica ya vigente. 
 
@@ -196,7 +196,7 @@
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_23.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left").text-small
+          .col-md-5(data-aos="fade-left")
             h4 Revocatoria del mandato
             p Este mecanismo de participación ciudadana consiste en el derecho político que tienen todos los colombianos, para dar por terminado el mandato que le han conferido a un gobernador o alcalde.
 
@@ -207,7 +207,7 @@
           .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
             img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left").text-small
+          .col-md-5(data-aos="fade-left")
             h4 Cabildo abierto
             p El cabildo abierto es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, en las cuales, la comunidad puede participar directamente, con la finalidad de discutir diversos asuntos que sean de interés para los habitantes. 
 
@@ -230,7 +230,7 @@
       .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a(src='@/assets/curso/temas/tema_1/img_26.png', alt='Texto que describa la imagen')
       .col-lg-7(data-aos="fade-left")
-        span.bg_txt_1 La estructuración de los actores sociales está basada en la toma de conciencia propia, en la cual el sujeto sea portador de valores y recursos los cuales le permitan actuar dentro de una sociedad para defender los intereses de los diferentes miembros que la componen para dar respuesta a las necesidades que se identifican prioritariamente. También puede ser entendido como un grupo de intervención, tal que percibe a sus miembros como productores de su historia, para la transformación de su situación. O sea que el actor social actúa sobre el exterior, pero también sobre sí mismo.
+        h5 La estructuración de los actores sociales, está basada en la toma de conciencia propia, en la cual el sujeto es el portador de valores y recursos, los cuales le permiten actuar dentro de una sociedad, para defender los intereses de los diferentes miembros que la componen y dar respuesta a las necesidades que, de forma prioritaria, se identifican. También se puede entender como un grupo de intervención, que percibe a sus miembros como productores de su historia, para la transformación de su situación. O sea que, el actor social, actúa sobre el exterior, pero también sobre sí mismo.
         p Estos actores se pueden identificar y caracterizar como aquellas personas influyentes, no por su capital económico, sino por el poder en la toma de decisiones. Usualmente, se encuentran al interior de los grupos o instituciones que tienen alguna relación con el ciclo social de interés para su comunidad.
 
     p Las características de los actores sociales son:
@@ -244,8 +244,8 @@
       .col-lg-10
         .cajon.color-primario.p-4
           p.mb-0 Los actores que se encuentran en la comunidad, se deben analizar según su nivel de influencia. De esta manera, se comprende la colaboración y el conflicto que contemplan las relaciones dentro del grupo, la legitimidad en el reconocimiento de los derechos y responsabilidades de cada persona. 
-
-    .row.mb-5
+    p A continuación, vamos a profundizar sobre los actores sociales y económicos, conocidos:
+    .row.my-5
       .col-lg-3.mb-4.mb-md-0(data-aos="fade-left")
         img.img-a(src='@/assets/curso/temas/tema_1/img_29.png', alt='Texto que describa la imagen')
       .col-lg-9(data-aos="fade-right").bg_sp
@@ -344,7 +344,7 @@
     .fondo-5.py-5.mb-5
       .row.justify-content-center.align-items-center  
         .col-lg-7.mb-4.mb-md-0(data-aos="fade-rigth")
-          p.text-small La principal finalidad de un grupo focal, es poder analizar los diferentes puntos de vista de los actores de la comunidad para entender las necesidades. Esta técnica es de gran utilidad para explorar los conocimientos y experiencias de las personas que están en un ambiente de interacción, lo cual permite que se examine lo que cada una de ellas piensa y las razones que esboza frente a sus pensamientos. Este trabajo grupal facilita la discusión y activa a los participantes a comentar y opinar aún en aquellos temas que se consideran como tabú, lo que permite generar una gran riqueza de testimonios.
+          p La principal finalidad de un grupo focal, es la de poder analizar los diferentes puntos de vista de los actores de la comunidad, para entender las necesidades. Esta técnica es de gran utilidad porque permite explorar los conocimientos y experiencias de las personas que se ubican en un ambiente de interacción, que permite examinar lo que cada una de ellas piensa y las razones que esbozan frente a sus pensamientos. Este trabajo grupal, facilita la discusión y activa a los participantes a comentar y opinar sobre aquellos temas considerados tabú, acción que permite la concepción de una colosal riqueza de testimonios.
         .col-md-4(data-aos="fade-left")
           img.img-a(src='@/assets/curso/temas/tema_1/img_32.png', alt='Texto que describa la imagen')
 
@@ -410,25 +410,12 @@
           .bloque-texto-a__texto.p-4(style="position:relative")
             p.mb-0(data-aos="fade-up")  En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
             p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural. 
-        //.col-lg-4.mb-4.mb-lg-0.order-2.order-lg-0(style="position:relative")
-          //figure.text-center(style="position:relative")
-            img(src="@/assets/curso/temas/tema_1/img_40.png" data-aos="fade-left" style="max-width:350px;display:inline;position: relative;bottom: -9px;")
-
-    //.row.justify-content-center.mb-5(data-aos="flip-right")
-      .col-lg-12
-        .bloque-texto-g.color-secundario.p-5.p-sm-4.p-md-5
-          .bloque-texto-g__img.m-left(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema_1/img_40.png')})`}"
-          )
-          .bloque-texto-g__texto.py-5.px-5.txt-g.bloque-g-txt.text-small
-            p.mb-0 En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
-            p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural.
     
     .row.mb-5.align-items-center
       .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
         img.img-a(src='@/assets/curso/temas/tema_1/img_41.png', alt='Texto que describa la imagen')
       .col-lg-7(data-aos="fade-left")
-        span.bg_txt_1 Para la toma de decisiones en favor de la prevención del riesgo, es necesario que participen todos los grupos poblacionales que presenten niveles de vulnerabilidad elevados, ya que son los principales afectados si se genera una situación de desastre. La inclusión social es fundamental para evaluar los riesgos presentes en las comunidades, no puede existir exclusión de ningún tipo, ya que todos y cada uno de los participantes de una sociedad son igual de importantes, sin distinción de niveles económicos, sociales o diferencias entre sus creencias.
+        h5 Para la toma de decisiones en favor de la prevención del riesgo, se hace necesario que participen todos los grupos poblacionales que presenten niveles de vulnerabilidad elevados, debido a que son los principales afectados si se genera una situación de desastre. La inclusión social es fundamental para evaluar los riesgos presentes en las comunidades; no puede existir ningún tipo de exclusión, porque todos y cada uno de los participantes de una sociedad, son igualmente importantes, sin distinción de nivel económico, social o credo.
         p Las acciones que se dispongan para reunir a los diferentes grupos poblacionales, deben estar previamente establecidas, para evitar que alguien quede por fuera de la toma de decisiones. La participación adecuada de cada uno de los actores, permite que los conocimientos adquiridos puedan ser re direccionados hacia sus comunidades.
 
     p Haciendo énfasis en lo anterior, se puede definir la participación comunitaria, como la toma de conciencia de manera colectiva de un grupo de personas, sobre factores que afecten sus necesidades y recursos existentes, llevando a que se formulen proyectos o actividades con intereses comunes.
@@ -511,7 +498,7 @@
       .col-lg-3.mb-4.mb-md-0(data-aos="fade-rigth")
         img.img-a(src='@/assets/curso/temas/tema_1/img_49.png', alt='Texto que describa la imagen')
       .col-lg-7(data-aos="fade-left")
-        p.text-small Los promotores ambientales son los principales actores y pilares de la educación ambiental, ya que, además de actuar como líderes comunitarios desarrollando proyectos y programas en pro del medio ambiente y la relación con comunidades, también contribuyen con los procesos de sensibilización y educación. Las responsabilidades sociales que se tiene frente a sus localidades y su región, le permite ser un sujeto respetado y reconocido por la localidad en la que habita. Se destaca por su vocación de servicio, por su saber y conocimiento espontáneo, que le permiten dar respuestas y proponer fórmulas de encuentro para conciliar los intereses de distintos actores sociales.
+        p Los promotores ambientales son los principales actores y pilares de la educación ambiental, ya que, además de actuar como líderes comunitarios desarrollando proyectos y programas en pro del medio ambiente y la relación con comunidades, también contribuyen con los procesos de sensibilización y educación. Las responsabilidades sociales que se tiene frente a sus localidades y su región, le permite ser un sujeto respetado y reconocido por la localidad en la que habita. Se destaca por su vocación de servicio, por su saber y conocimiento espontáneo, que le permiten dar respuestas y proponer fórmulas de encuentro para conciliar los intereses de distintos actores sociales.
 
     p.mb-5 Partiendo de lo anterior, las funciones de un promotor son:
 
@@ -528,7 +515,7 @@
           .row.m-0.align-items-center.justify-content-between(style="position:relative")
             .col-lg-8.p-5.order-2.order-lg-0
               .bloque-texto-a__texto.p-4(style="position:relative")
-                p.mb-0.text-small(data-aos="fade-up") El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
+                p.mb-0(data-aos="fade-up") El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
 
     
 
@@ -537,12 +524,12 @@
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
       h2 1.2	Programas de capacitación y sensibilización
 
-    h5.mb-5 Programas de capacitación y sensibilización ambiental.
+    p.mb-5 Los programas de capacitación y sensibilización ambiental, son indispensables para un proceso educativo integral y deben estar dirigidos a todos los rangos de edad en las colectividades. Veamos el siguiente video para obtener una mayor comprensión:
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      
 
     p.mb-5 Estos son los principales sucesos históricos en los cuales se comenzó a hablar de la educación ambiental:
 
@@ -557,7 +544,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.mb-4.mb-md-0(data-aos="fade-rigth")
           img(src='@/assets/curso/temas/tema_1/img_61.png', alt='Texto que describa la imagen')
-        .col-lg-7.text-small
+        .col-lg-7
           p La capacitación hace referencia a un conjunto de actividades didácticas que están orientadas a ampliar diferentes conocimientos y habilidades sobre un tema específico. Es una de las herramientas más útiles para transmitir de manera efectiva, ciertos temas que son necesarios para el desarrollo de actividades, tanto individuales como colectivas. 
           p La tarea de educar y sensibilizar a las poblaciones es el principal soporte para impulsar el desarrollo sostenible de una manera constante y permanente, por ende, es necesario que se orienten los esfuerzos en torno al diseño, implementación y masificación de campañas de sensibilización, a través de todos los medios de comunicación, de manera directa a nivel nacional, regional, local y comunitario.
 
@@ -565,7 +552,7 @@
       .col-lg-7(data-aos="slide-right")
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
-            h6.mb-0 Es necesario incrementar el nivel de conciencia ciudadana sobre la importancia de los riesgos y su relación con la calidad de vida de la población, sobre sus responsabilidades frente a estos y reforzar su compromiso y su participación en la gestión de riesgos de desastres. Se debe adelantar acciones, para que las sociedades entiendan que la responsabilidad es de todos en la construcción de soluciones.
+            h5.mb-0 Es necesario incrementar el nivel de conciencia ciudadana sobre la importancia de los riesgos y su relación con la calidad de vida de la población, sobre sus responsabilidades frente a estos y reforzar su compromiso y su participación en la gestión de riesgos de desastres. Se debe adelantar acciones, para que las sociedades entiendan que la responsabilidad es de todos en la construcción de soluciones.
       .col-lg-3(data-aos="slide-left")
         img(src='@/assets/curso/temas/tema_1/img_62.png', alt='Texto que describa la imagen')
 
@@ -593,7 +580,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-right")
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 La educación, al igual que todos los campos de actividad del hombre, requiere también de una buena dosis de técnica por parte del maestro, la cual debe estar encaminada al manejo de la clase, la organización de la asignatura y al proceso de interrelación maestro –alumno, para la elaboración de los conocimientos, sin descuidar, además, la comprobación de los resultados que hacen de la evaluación un proceso en el que debe notarse la preparación profesional del educador.
+          p.mb-0 La educación, al igual que todos los campos de actividad del hombre, requiere también de una buena dosis de técnica por parte del maestro, la cual debe estar encaminada al manejo de la clase, la organización de la asignatura y al proceso de interrelación maestro–alumno, para la elaboración de los conocimientos, sin descuidar, además, la comprobación de los resultados que hacen de la evaluación un proceso en el que debe notarse la preparación profesional del educador.
 
     p.mb-5 Haciendo énfasis en lo anterior, se revisan las técnicas educativas más utilizadas:
 
@@ -774,12 +761,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-left")
       .col-lg-10
         .cajon.color-primario.p-4
-          p.mb-0 Hemos llegado al final de este componente formativo.  Recuerde explorar los demás recursos que se encuentran disponibles, para ello diríjase al menú principal en donde encontrará la síntesis, una actividad didáctica, material complementario, entre otros. 
-
-
-
-
-
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

@@ -105,30 +105,30 @@ export default {
   },
   complementario: [
     {
-      tema: 'Participación ciudadana.',
+      tema: 'Diagnóstico y planificación participativa',
       referencia:
-        'Fundación espacio cívico. (2 de diciembre de 2020). <em>¿Qué es la participación ciudadana?</em> [Archivo de video]. YouTube. ',
+        'Fundación espacio cívico. (2020).<i> ¿Qué es la participación ciudadana?</i>. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=cF2Mz6JZwc0',
     },
     {
-      tema: 'Capacitación.',
+      tema: 'Diagnóstico y planificación participativa',
       referencia:
-        'Capacitación.	Grupo Motiva. (18 de febrero de 2017). <em>Método práctico de 4 pasos para capacitar y enseñar</em>. [Archivo de video]. YouTube.',
+        'Grupo Motiva. (2017). <i>Método práctico de 4 pasos para capacitar y enseñar</i>.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=tEBp4u2kF9g',
     },
     {
-      tema: 'Sensibilización.',
+      tema: 'Diagnóstico y planificación participativa',
       referencia:
-        'Gutiérrez José. (10 de junio de 2020). <em>Cómo hacer una campaña de sensibilización.</em> [Archivo de video]. YouTube. ',
+        'Gutiérrez, J. (2020). <i>Cómo hacer una campaña de sensibilización</i>. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=OYlgEGxR19c',
     },
     {
-      tema: 'Formación comunitaria.',
+      tema: 'Diagnóstico y planificación participativa',
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres [UNGRD] (2013). Guía para formación comunitaria en gestión del riesgo de desastres.',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres [UNGRD]. (2013). <i>Guía para formación comunitaria en gestión del riesgo de desastres</i>.',
       tipo: 'Guía',
       descarga: '/downloads/Guia-para-formacion-comunitaria-grd.pdf',
     },
@@ -188,57 +188,57 @@ export default {
   referencias: [
     {
       referencia:
-        'Ley No. 134. Congreso de la República. Por la cual se dictan normas sobre mecanismos de participación ciudadana. Mayo 31 de 1994.',
+        'Ley No. 134. Congreso de la República. <i>Por la cual se dictan normas sobre mecanismos de participación ciudadana</i>. Mayo 31 de 1994.',
     },
     {
       referencia:
-        'Delgado, C. & Palacios, P. (s.f). Técnicas Educativas. Universidad del Azuay. Consultado de:',
+        'Delgado, C. & Palacios, P. (s.f.). <i>Técnicas Educativas. Universidad del Azuay</i>.',
       link:
         'https://www.uazuay.edu.ec/sites/default/files/public/TECNICAS-EDUCATIVAS.pdf',
     },
 
     {
       referencia:
-        'López, M. & Campos, A. (2015). La capacitación como instrumento potenciador para la gestión comunitaria. <em>Revista de Ciencias Sociales (RCS), Vol 21. No. 1.</em> Consultado de:',
+        'López, M. & Campos, A. (2015). La capacitación como instrumento potenciador para la gestión comunitaria. <i>Revista de Ciencias Sociales (RCS), 21</i>(1).',
       link: 'https://www.redalyc.org/pdf/280/28037734015.pdf ',
     },
 
     {
       referencia:
-        'Matamoro, V. (1997). Capacitación productiva y acción comunitaria un enfoque integrador. CINTEFOR – OIT. Consultado de:',
+        'Matamoro, V. (1997). <i>Capacitación productiva y acción comunitaria un enfoque integrador</i>. CINTEFOR – OIT.',
       link:
         'https://www.oitcinterfor.org/sites/default/files/file_publicacion/pubmata.pdf',
     },
 
     {
       referencia:
-        'Ministerio del medio ambiente de Chile. (2022). Educación ambiental y participación ciudadana. Página web institucional, sección eventos, Ministerio del medio ambiente. Recuperado el 13 de octubre de 2022, de:',
+        'Ministerio del Medio Ambiente de Chile. (2022). <i>Educación ambiental y participación ciudadana</i>.',
       link: 'https://educacion.mma.gob.cl/cool_timeline',
     },
 
     {
       referencia:
-        'Ministerio del medio ambiente de Colombia (2020). <em>Programa Nacional de Promotoría Ambiental Comunitaria</em>. Página web institucional, sección noticias, del Ministerio del Medio ambiente. Recuperado el 13 de octubre de 2022, de:',
-      link: 'https://normas-apa.org/referencias/citar-pagina-web/',
+        'Ministerio del Medio Ambiente de Colombia (2020). <i>Programa Nacional de Promotoría Ambiental Comunitaria</i>.',
+      link: 'https://www.minambiente.gov.co/',
     },
 
     {
       referencia:
-        'Naciones Unidas [ONU] (1972). Conferencia de las Naciones Unidas sobre el Medio Humano, 5 a 16 de junio de 1972, Estocolmo. Página web, sección de noticias, de las Naciones Unidas. Recuperado el 13 de octubre de 2022, de:',
+        'Naciones Unidas [ONU]. (1972). <i>Conferencia de las Naciones Unidas sobre el Medio Humano</i>, 5 a 16 de junio de 1972, Estocolmo.',
       link: 'https://www.un.org/es/conferences/environment/stockholm1972',
     },
 
     {
       referencia:
-        'UNESCO - PNUMA (1 de marzo de 1977). Seminario internacional de educación ambiental. Universidad de Belgrado. Recuperado el 13 de octubre de 2022, de:',
+        'UNESCO – PNUMA. (1977). <i>La Carta de Belgrado: un marco general para la educación ambiental</i>. Universidad de Belgrado.',
       link: 'https://unesdoc.unesco.org/ark:/48223/pf0000017772_spa',
     },
 
     {
       referencia:
-        'Unidad Nacional para la Gestión del Riesgo de Desastres [UNGRD] (2013). Guía para formación comunitaria en gestión del riesgo de desastres. Consultado de:',
+        'Unidad Nacional para la Gestión del Riesgo de Desastres [UNGRD]. (2013). <i>Guía para formación comunitaria en gestión del riesgo de desastres.</i>',
       link:
-        'http://cedir.gestiondelriesgo.gov.co/archivospdf/Guia-para-formacion-comunitaria-grd.pdf',
+        'http://www.gestiondelriesgo.gov.co/sigpad/archivos/Guia-para-formacion-comunitaria-grd.pdf',
     },
   ],
   creditos: {
