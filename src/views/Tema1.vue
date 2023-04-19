@@ -528,7 +528,7 @@
 
     figure.mb-5(data-aos="zoom-in-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aqxE4-GH4es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 
     p.mb-5 Estos son los principales sucesos históricos en los cuales se comenzó a hablar de la educación ambiental:
