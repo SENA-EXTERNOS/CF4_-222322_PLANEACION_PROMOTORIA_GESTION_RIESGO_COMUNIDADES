@@ -19,7 +19,7 @@
         p Partiendo de lo anterior, es a través del diagnóstico participativo, como las comunidades pueden analizar, sacar conclusiones, ejercer su poder de decisión, estar al tanto de lo que hacen los demás y ofrecer su esfuerzo y experiencia para llevar adelante una labor en común. A continuación, se exponen los recursos necesarios, para desarrollar un correcto diagnóstico:
 
     .row.mb-5.justify-content-stretch.align-items-stretch.d-flex.h-100
-      .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+      .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_1/img_4.svg' alt='AvatarTop')
           .tarjeta.mog
@@ -31,7 +31,7 @@
           .tarjeta.mog
             .p-4.pad
               h5.text-center  Personas que pueden trabajar.
-      .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
+      .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_1/img_6.svg' alt='AvatarTop')
           .tarjeta.mog
@@ -42,9 +42,9 @@
 
     .fondo-2.p-5
       .row
-        .col-lg-3.mb-4.mb-md-0(data-aos="fade-left")
+        .col-lg-3.mb-4.mb-md-0
           img.img-a(src='@/assets/curso/temas/tema_1/img_7.png', alt='Texto que describa la imagen')
-        .col-lg-9(data-aos="fade-right").bg_sp
+        .col-lg-9.bg_sp
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg_1")
             div(titulo="Factor 1")
               p La participación se concibe y se mide, de acuerdo con el grado de decisión y de poder para actuar dentro de una comunidad, la cual representa la perspectiva democrática sobre cómo funciona una sociedad y el papel que desempeña al efectuar acciones dentro de sí misma. 
@@ -61,11 +61,11 @@
       h2 1.1 Identificación de las instituciones y organizaciones comunitarias
 
     .row.align-items-center.mb-5 
-      .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
+      .col-md-7.mb-4.mb-md-0
         p La participación comunitaria dentro de una comunidad se encuentra dividida en los siguientes dos grupos:
 
         p En un primer momento, se conocerá al grupo que se caracteriza por estar determinado según los procesos sociales de la participación.
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4
         img.img-a(src='@/assets/curso/temas/tema_1/img_9.png', alt='Texto que describa la imagen')
 
     TabsC.color-primario.mb-5
@@ -102,45 +102,45 @@
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="Participación pasiva")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_13.png', alt='Texto que describa la imagen')
             
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación pasiva
                 p Es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
           .py-3.py-md-4(titulo="Participación mediante la consulta")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_14.png', alt='Texto que describa la imagen')
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación mediante la consulta
                 p Es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
           .py-3.py-md-4(titulo="Participación por incentivos")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_16.png', alt='Texto que describa la imagen')
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación por incentivos
                 p Consiste en proveer recursos materiales por trabajo (alimentos, dinero, entre otros).
           .py-3.py-md-4(titulo="Participación funcional")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_15.png', alt='Texto que describa la imagen')
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación funcional
                 p En este momento los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
           .py-3.py-md-4(titulo="Participación interactiva")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_17.png', alt='Texto que describa la imagen')
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación interactiva
                 p Son las interrelaciones en el interior de la estructura formal de los grupos, y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
           .py-3.py-md-4(titulo="Participación desarrollada")
             .row.justify-content-center.align-items-center
-              .col-md-4.mb-4.mb-md-0(data-aos="fade-right")
+              .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_18.png', alt='Texto que describa la imagen')
-              .col-md-6(data-aos="fade-left")
+              .col-md-6
                 h4 Participación desarrollada
                 p Es la máxima madurez lograda por una organización, representada en la toma de iniciativas independientes y con capacidad de responder, por las metas de una colectividad.
 
@@ -158,10 +158,10 @@
     TabsC.color-secundario.fondo-3.mb-5
       .py-3.py-md-4(titulo="Plebiscito")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_20.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Plebiscito
             p Es el pronunciamiento del pueblo, una vez es convocado por el presidente de la República, mediante el cual la comunidad apoyará o rechazará una determinada decisión del ejecutivo. 
 
@@ -169,10 +169,10 @@
 
       .py-3.py-md-4(titulo="Iniciativa popular legislativa")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_21.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Iniciativa popular legislativa
             p Partiendo del Artículo 2 de la Ley 134 de 1994, la iniciativa popular, es el derecho político de un grupo de ciudadanos de presentar un proyecto de acto legislativo y de ley ante el Congreso de la República, de ordenanza ante las Asambleas departamentales, de acuerdo ante los Concejos municipales o Distritales,  de resolución ante las Juntas administradoras locales, y demás resoluciones de las corporaciones o entidades territoriales, de acuerdo con las leyes que las reglamentan según el caso, para que sean debatidos y posteriormente aprobados, modificados o negados por la corporación pública correspondiente.
 
@@ -180,10 +180,10 @@
 
       .py-3.py-md-4(titulo="Referendo")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_22.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Referendo
             p Es la convocatoria que se le hace a la comunidad, para que sea aprobado o rechazado un proyecto de norma jurídica ya vigente. 
 
@@ -193,10 +193,10 @@
 
       .py-3.py-md-4(titulo="Revocatoria del mandato")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_23.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Revocatoria del mandato
             p Este mecanismo de participación ciudadana consiste en el derecho político que tienen todos los colombianos, para dar por terminado el mandato que le han conferido a un gobernador o alcalde.
 
@@ -204,10 +204,10 @@
 
       .py-3.py-md-4(titulo="Cabildo abierto")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Cabildo abierto
             p El cabildo abierto es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, en las cuales, la comunidad puede participar directamente, con la finalidad de discutir diversos asuntos que sean de interés para los habitantes. 
 
@@ -222,14 +222,14 @@
           .row.m-0.align-items-center.justify-content-between(style="position:relative")
             .col-lg-8.p-5.order-2.order-lg-0
               .bloque-texto-a__texto.p-5(style="position:relative")
-                h5.mb-0(data-aos="fade-up") Representan sujetos activos que inciden en procesos económicos, culturales o políticos de la comunidad en la cual intervienen. <span style="color: #179587"> Sus acciones están direccionadas a aportar valores al beneficio de la comunidad. </span>
+                h5.mb-0 Representan sujetos activos que inciden en procesos económicos, culturales o políticos de la comunidad en la cual intervienen. <span style="color: #179587"> Sus acciones están direccionadas a aportar valores al beneficio de la comunidad. </span>
 
 
 
     .row.mb-5.align-items-center
-      .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
+      .col-lg-5.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_26.png', alt='Texto que describa la imagen')
-      .col-lg-7(data-aos="fade-left")
+      .col-lg-7
         h5 La estructuración de los actores sociales, está basada en la toma de conciencia propia, en la cual el sujeto es el portador de valores y recursos, los cuales le permiten actuar dentro de una sociedad, para defender los intereses de los diferentes miembros que la componen y dar respuesta a las necesidades que, de forma prioritaria, se identifican. También se puede entender como un grupo de intervención, que percibe a sus miembros como productores de su historia, para la transformación de su situación. O sea que, el actor social, actúa sobre el exterior, pero también sobre sí mismo.
         p Estos actores se pueden identificar y caracterizar como aquellas personas influyentes, no por su capital económico, sino por el poder en la toma de decisiones. Usualmente, se encuentran al interior de los grupos o instituciones que tienen alguna relación con el ciclo social de interés para su comunidad.
 
@@ -246,9 +246,9 @@
           p.mb-0 Los actores que se encuentran en la comunidad, se deben analizar según su nivel de influencia. De esta manera, se comprende la colaboración y el conflicto que contemplan las relaciones dentro del grupo, la legitimidad en el reconocimiento de los derechos y responsabilidades de cada persona. 
     p A continuación, vamos a profundizar sobre los actores sociales y económicos, conocidos:
     .row.my-5
-      .col-lg-3.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-3.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_29.png', alt='Texto que describa la imagen')
-      .col-lg-9(data-aos="fade-right").bg_sp
+      .col-lg-9.bg_sp
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg_1")
           .row.justify-content-center(titulo="Delegaciones gubernamentales")
             .col-lg-10
@@ -336,20 +336,20 @@
     h3.mb-3 Grupos focales
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2.mb-4.mb-md-0(data-aos="fade-rigth")
+      .col-lg-2.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_30.png', alt='Texto que describa la imagen')
-      .col-lg-9(data-aos="fade-left")
+      .col-lg-9
         p Son un espacio de discusión que facilita el diálogo alrededor de experiencias comunes, estimulando el debate entre los participantes. La finalidad es generar un proceso dinámico, en el cual los diferentes participantes, intercambian ideas de manera que puedan ser contestadas por otros, para así construir colectivamente ideas. 
 
     .fondo-5.py-5.mb-5
       .row.justify-content-center.align-items-center  
-        .col-lg-7.mb-4.mb-md-0(data-aos="fade-rigth")
+        .col-lg-7.mb-4.mb-md-0
           p La principal finalidad de un grupo focal, es la de poder analizar los diferentes puntos de vista de los actores de la comunidad, para entender las necesidades. Esta técnica es de gran utilidad porque permite explorar los conocimientos y experiencias de las personas que se ubican en un ambiente de interacción, que permite examinar lo que cada una de ellas piensa y las razones que esbozan frente a sus pensamientos. Este trabajo grupal, facilita la discusión y activa a los participantes a comentar y opinar sobre aquellos temas considerados tabú, acción que permite la concepción de una colosal riqueza de testimonios.
-        .col-md-4(data-aos="fade-left")
+        .col-md-4
           img.img-a(src='@/assets/curso/temas/tema_1/img_32.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-5
-      .col-lg-4.mb-4.mb-md-0(data-aos="fade-rigth")
+      .col-lg-4.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_33.png', alt='Texto que describa la imagen')
       .col-lg-8
         p El grupo usualmente está compuesto por un número reducido de personas que han sido seleccionadas cuidadosamente, en función de un conjunto de criterios previamente determinados, los cuales pueden ser: la edad, la ubicación, el nivel socioeconómico, la raza, entre otros.
@@ -359,7 +359,7 @@
 
           p.mb-0 Los pasos que se deben seguir para realizar un grupo focal son:
 
-    .bg_3.p-4.mb-5(data-aos="flip-right")
+    .bg_3.p-4.mb-5
       SlyderF.mb-5(columnas="col-lg-4 col-xl-4").align-items-stretch.d-flex.h-100
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema_1/img_34.svg' alt='AvatarTop')
@@ -397,7 +397,7 @@
             .p-4
               p.text-center #[strong Se debe iniciar fomentando la participación de las personas involucradas, haciendo que se presenten entre ellos y den una descripción de su historial. Luego se hacen las preguntas.]
 
-    .row.justify-content-center.mb-5(data-aos="flip-right")
+    .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-secundario.bg_5.p-4
           o.mb-0 La principal diferencia que existe entre los grupos focales y las entrevistas grupales, es que, en las entrevistas todo el grupo interactúa al mismo tiempo, haciendo énfasis en las preguntas y respuestas entre el investigador y los participantes. En cambio, el grupo focal está centrado en la interacción que se presenta dentro del grupo, la cual se mueve en torno al tema inicialmente propuesto.
@@ -408,13 +408,13 @@
       .row.m-0.align-items-center.justify-content-between(style="position:relative")
         .col-lg-8.p-5.order-2.order-lg-0
           .bloque-texto-a__texto.p-4(style="position:relative")
-            p.mb-0(data-aos="fade-up")  En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
+            p.mb-0  En las décadas recientes se ha venido avanzando en reconocer la diversidad de los grupos poblacionales que habitan en los territorios. 
             p Estos grupos son comunidades que viven en áreas específicas o tienen entre sí características similares. Centrando la atención en Colombia, existen diferentes segmentos poblacionales, en los cuales hay comunidades que comparten la misma raza y/o, pertenecen a la misma comunidad lingüística y cultural. 
     
     .row.mb-5.align-items-center
-      .col-lg-5.mb-4.mb-md-0(data-aos="fade-right")
+      .col-lg-5.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_41.png', alt='Texto que describa la imagen')
-      .col-lg-7(data-aos="fade-left")
+      .col-lg-7
         h5 Para la toma de decisiones en favor de la prevención del riesgo, se hace necesario que participen todos los grupos poblacionales que presenten niveles de vulnerabilidad elevados, debido a que son los principales afectados si se genera una situación de desastre. La inclusión social es fundamental para evaluar los riesgos presentes en las comunidades; no puede existir ningún tipo de exclusión, porque todos y cada uno de los participantes de una sociedad, son igualmente importantes, sin distinción de nivel económico, social o credo.
         p Las acciones que se dispongan para reunir a los diferentes grupos poblacionales, deben estar previamente establecidas, para evitar que alguien quede por fuera de la toma de decisiones. La participación adecuada de cada uno de los actores, permite que los conocimientos adquiridos puedan ser re direccionados hacia sus comunidades.
 
@@ -423,9 +423,9 @@
 
 
     .row.mb-5
-      .col-lg-3.mb-4.mb-md-0(data-aos="fade-left")
+      .col-lg-3.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_42.png', alt='Texto que describa la imagen')
-      .col-lg-9(data-aos="fade-right").bg_sp
+      .col-lg-9.bg_sp
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg_1")
           .row.justify-content-center(titulo="Identidad")
             .col-lg-10
@@ -495,14 +495,14 @@
           p.mb-0 Es la capacidad que tienen diversos actores de la comunidad para promover acciones, encaminadas en el cuidado del medio ambiente y la construcción de un futuro basado en modelos de desarrollo sostenible.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-4.mb-md-0(data-aos="fade-rigth")
+      .col-lg-3.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_1/img_49.png', alt='Texto que describa la imagen')
-      .col-lg-7(data-aos="fade-left")
+      .col-lg-7
         p Los promotores ambientales son los principales actores y pilares de la educación ambiental, ya que, además de actuar como líderes comunitarios desarrollando proyectos y programas en pro del medio ambiente y la relación con comunidades, también contribuyen con los procesos de sensibilización y educación. Las responsabilidades sociales que se tiene frente a sus localidades y su región, le permite ser un sujeto respetado y reconocido por la localidad en la que habita. Se destaca por su vocación de servicio, por su saber y conocimiento espontáneo, que le permiten dar respuestas y proponer fórmulas de encuentro para conciliar los intereses de distintos actores sociales.
 
     p.mb-5 Partiendo de lo anterior, las funciones de un promotor son:
 
-    .row.justify-content-center.mb-5(data-aos="fade-up")
+    .row.justify-content-center.mb-5
       .col-lg-8
         img.img-a(src='@/assets/curso/temas/tema_1/img_50.svg', alt='Texto que describa la imagen')
 
@@ -515,10 +515,7 @@
           .row.m-0.align-items-center.justify-content-between(style="position:relative")
             .col-lg-8.p-5.order-2.order-lg-0
               .bloque-texto-a__texto.p-4(style="position:relative")
-                p.mb-0(data-aos="fade-up") El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
-
-    
-
+                p.mb-0 El Ministerio de ambiente y desarrollo sostenible de Colombia (2020), viene implementado el programa Promotores ambientales comunitarios, como una herramienta para el cumplimiento de la estrategia contenida en la Política nacional de educación ambiental, denominada Formación de educadores y dinamizadores ambientales, cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos, que orientan el desarrollo sostenible y la educación ambiental, tanto en lo local como en lo regional, buscando dinamizar las entidades territoriales, con la garante de construir una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido.mt-5
@@ -542,7 +539,7 @@
 
     .fondo-8.py-5.p-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-4.mb-4.mb-md-0(data-aos="fade-rigth")
+        .col-lg-4.mb-4.mb-md-0
           img(src='@/assets/curso/temas/tema_1/img_61.png', alt='Texto que describa la imagen')
         .col-lg-7
           p La capacitación hace referencia a un conjunto de actividades didácticas que están orientadas a ampliar diferentes conocimientos y habilidades sobre un tema específico. Es una de las herramientas más útiles para transmitir de manera efectiva, ciertos temas que son necesarios para el desarrollo de actividades, tanto individuales como colectivas. 
@@ -560,9 +557,9 @@
 
     .fondo-2.p-5
       .row
-        .col-lg-5.mb-4.mb-md-0(data-aos="fade-left")
+        .col-lg-5.mb-4.mb-md-0
           img.img-a(src='@/assets/curso/temas/tema_1/img_63.png', alt='Texto que describa la imagen')
-        .col-lg-7(data-aos="fade-right")
+        .col-lg-7
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             div(titulo="Aprendizaje pasivo")
               p El participante es el receptor pasivo de los conocimientos que está impartiendo el instructor, ya sea de manera directa o indirecta.
@@ -577,7 +574,7 @@
             div(titulo="Capacitación asertiva")
               p Esta es aplicada cuando existen dificultades de comunicación entre los líderes y sus colaboradores, cuando las tareas no son debidamente elaboradas por la falta de comprensión de las reglas.
 
-    .row.justify-content-center.mb-5(data-aos="flip-right")
+    .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4
           p.mb-0 La educación, al igual que todos los campos de actividad del hombre, requiere también de una buena dosis de técnica por parte del maestro, la cual debe estar encaminada al manejo de la clase, la organización de la asignatura y al proceso de interrelación maestro–alumno, para la elaboración de los conocimientos, sin descuidar, además, la comprobación de los resultados que hacen de la evaluación un proceso en el que debe notarse la preparación profesional del educador.
@@ -587,10 +584,10 @@
     TabsC.color-primario.fondo-3.mb-5
       .py-3.py-md-4(titulo="Técnicas para el aprendizaje asistido")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_64.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Técnicas para el aprendizaje asistido
             ul.lista-ul
               li 
@@ -613,10 +610,10 @@
                 | Seminario
       .py-3.py-md-4(titulo="Técnicas para el aprendizaje colaborativo")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_65.png', alt='Texto que describa la imagen')
         
-          .col-md-6(data-aos="fade-left")
+          .col-md-6
             h4 Técnicas para el aprendizaje colaborativo
             .row
               .col-lg-6.mb-4.mb-md-0
@@ -659,10 +656,10 @@
 
       .py-3.py-md-4(titulo="Técnicas para el aprendizaje de aplicación")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_66.png', alt='Texto que describa la imagen')
         
-          .col-md-5(data-aos="fade-left")
+          .col-md-5
             h4 Técnicas para el aprendizaje de aplicación
             ul.lista-ul
               li 
@@ -695,10 +692,10 @@
 
       .py-3.py-md-4(titulo="Técnicas para el aprendizaje autónomo")
         .row.justify-content-center.align-items-center
-          .col-md-5.mb-4.mb-md-0(data-aos="fade-right")
+          .col-md-5.mb-4.mb-md-0
             img.img-a(src='@/assets/curso/temas/tema_1/img_67.png', alt='Texto que describa la imagen')
         
-          .col-md-6(data-aos="fade-left")
+          .col-md-6
             h4 Técnicas para el aprendizaje autónomo
             .row
               .col-lg-6.mb-4.mb-md-0
