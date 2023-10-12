@@ -75,7 +75,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_10.png', alt='Texto que describa la imagen')
         
           .col-md-6
-            h4 Participación política
             p Se genera únicamente con grupos de manera legal, legítima y conscientemente organizados, ya sea, en partidos o movimientos políticos, en los cuales los ciudadanos participan de las decisiones y gestiones que estén asociadas a la implementación de acciones públicas. 
       .py-3.py-md-4(titulo="Participación social")
         .row.justify-content-center.align-items-center
@@ -83,7 +82,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_11.png', alt='Texto que describa la imagen')
         
           .col-md-6
-            h4 Participación social
             p Conformada por los ciudadanos agrupados y organizados en forma colectiva, que hacen parte de instituciones que no pertenecen al Estado en ninguna de las ramas del poder público.
         
       .py-3.py-md-4(titulo="Participación comunitaria")
@@ -92,7 +90,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_12.png', alt='Texto que describa la imagen')
         
           .col-md-6
-            h4 Participación comunitaria
             p Involucra a los ciudadanos en acciones ejecutadas colectivamente, para la búsqueda de soluciones a las necesidades de su vida cotidiana.
 
     .fondo-2.p-5
@@ -106,42 +103,36 @@
                 img.img-a(src='@/assets/curso/temas/tema_1/img_13.png', alt='Texto que describa la imagen')
             
               .col-md-6
-                h4 Participación pasiva
                 p Es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
           .py-3.py-md-4(titulo="Participación mediante la consulta")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_14.png', alt='Texto que describa la imagen')
               .col-md-6
-                h4 Participación mediante la consulta
                 p Es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
           .py-3.py-md-4(titulo="Participación por incentivos")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_16.png', alt='Texto que describa la imagen')
               .col-md-6
-                h4 Participación por incentivos
                 p Consiste en proveer recursos materiales por trabajo (alimentos, dinero, entre otros).
           .py-3.py-md-4(titulo="Participación funcional")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_15.png', alt='Texto que describa la imagen')
               .col-md-6
-                h4 Participación funcional
                 p En este momento los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
           .py-3.py-md-4(titulo="Participación interactiva")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_17.png', alt='Texto que describa la imagen')
               .col-md-6
-                h4 Participación interactiva
                 p Son las interrelaciones en el interior de la estructura formal de los grupos, y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
           .py-3.py-md-4(titulo="Participación desarrollada")
             .row.justify-content-center.align-items-center
               .col-md-4.mb-4.mb-md-0
                 img.img-a(src='@/assets/curso/temas/tema_1/img_18.png', alt='Texto que describa la imagen')
               .col-md-6
-                h4 Participación desarrollada
                 p Es la máxima madurez lograda por una organización, representada en la toma de iniciativas independientes y con capacidad de responder, por las metas de una colectividad.
 
       h3.mb-0 Mecanismos constitucionales
@@ -162,7 +153,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_20.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Plebiscito
             p Es el pronunciamiento del pueblo, una vez es convocado por el presidente de la República, mediante el cual la comunidad apoyará o rechazará una determinada decisión del ejecutivo. 
 
             p De acuerdo con el Artículo 77 de la Ley 134 de 1994, el presidente de la República de Colombia, con la firma de todos los ministros, podrá convocar al pueblo para que se pronuncie sobre las políticas del Ejecutivo, que no requieran aprobación del Congreso, excepto, las relacionadas con los estados de excepción y el ejercicio de los poderes correspondientes.
@@ -173,7 +163,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_21.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Iniciativa popular legislativa
             p Partiendo del Artículo 2 de la Ley 134 de 1994, la iniciativa popular, es el derecho político de un grupo de ciudadanos de presentar un proyecto de acto legislativo y de ley ante el Congreso de la República, de ordenanza ante las Asambleas departamentales, de acuerdo ante los Concejos municipales o Distritales,  de resolución ante las Juntas administradoras locales, y demás resoluciones de las corporaciones o entidades territoriales, de acuerdo con las leyes que las reglamentan según el caso, para que sean debatidos y posteriormente aprobados, modificados o negados por la corporación pública correspondiente.
 
             p Para realizar esta iniciativa, en primera instancia, se debe inscribir un comité de promotores, el cual debe estar respaldado por apoyos representados en firmas que equivalgan al cinco por mil del censo electoral. 
@@ -184,7 +173,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_22.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Referendo
             p Es la convocatoria que se le hace a la comunidad, para que sea aprobado o rechazado un proyecto de norma jurídica ya vigente. 
 
             p.mb-0 #[strong Existen dos tipos de referendos:] 
@@ -197,7 +185,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_23.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Revocatoria del mandato
             p Este mecanismo de participación ciudadana consiste en el derecho político que tienen todos los colombianos, para dar por terminado el mandato que le han conferido a un gobernador o alcalde.
 
             p Si como resultado de la votación, no se revoca el mandato, no podrá volver a intentarse este mecanismo por lo que resta de su período. De lo contrario, desde la Ley 134 de 1994, es la Registraduría Nacional del Estado Civil, el ente encargado de hacer la notificación oficial al presidente de la República del resultado de la revocatoria.
@@ -208,7 +195,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_24.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Cabildo abierto
             p El cabildo abierto es la reunión pública de todos los consejos distritales, municipales o de las juntas de administraciones locales, en las cuales, la comunidad puede participar directamente, con la finalidad de discutir diversos asuntos que sean de interés para los habitantes. 
 
             p Cualquier tema que sea de impacto para la comunidad, podrá ser material del cabildo abierto, con excepción de proyectos de ordenanza, acuerdos o algún otro acto administrativo. A los cabildos pueden asistir todas las personas que tengan interés en el asunto.
@@ -588,7 +574,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_64.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Técnicas para el aprendizaje asistido
             ul.lista-ul
               li 
                 span.fas.fa-angle-right
@@ -614,7 +599,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_65.png', alt='Texto que describa la imagen')
         
           .col-md-6
-            h4 Técnicas para el aprendizaje colaborativo
             .row
               .col-lg-6.mb-4.mb-md-0
                 ul.lista-ul
@@ -660,7 +644,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_66.png', alt='Texto que describa la imagen')
         
           .col-md-5
-            h4 Técnicas para el aprendizaje de aplicación
             ul.lista-ul
               li 
                 span.fas.fa-angle-right
@@ -696,7 +679,6 @@
             img.img-a(src='@/assets/curso/temas/tema_1/img_67.png', alt='Texto que describa la imagen')
         
           .col-md-6
-            h4 Técnicas para el aprendizaje autónomo
             .row
               .col-lg-6.mb-4.mb-md-0
                 ul.lista-ul

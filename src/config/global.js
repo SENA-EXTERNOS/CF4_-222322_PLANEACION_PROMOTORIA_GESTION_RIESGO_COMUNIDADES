@@ -189,6 +189,8 @@ export default {
     {
       referencia:
         'Ley No. 134. Congreso de la República. <i>Por la cual se dictan normas sobre mecanismos de participación ciudadana</i>. Mayo 31 de 1994.',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=330',
     },
     {
       referencia:
@@ -213,7 +215,8 @@ export default {
     {
       referencia:
         'Ministerio del Medio Ambiente de Chile. (2022). <i>Educación ambiental y participación ciudadana</i>.',
-      link: 'https://educacion.mma.gob.cl/cool_timeline',
+      link:
+        'https://archivo.minambiente.gov.co/index.php/ordenamiento-ambiental-territorial-y-coordinacion-del-sina/educacion-y-participacion/programa-nacional-de-promotoria-ambiental-comunitaria',
     },
 
     {
